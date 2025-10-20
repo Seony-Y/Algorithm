@@ -11,4 +11,5 @@ const nums = tokens.map(Number);   // 전부 숫자면 이 한 줄로도 OK
 
 // --- 여기부터 풀이 ---
 
-console.log(nums[0] / nums[1]); // 예시: 두 수의 합 출력
+
+console.log(nums[0] / nums[1]);
